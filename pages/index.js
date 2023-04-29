@@ -68,10 +68,13 @@ export default function Landing() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                       <i className="fas fa-award"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Awarded Agency</h6>
+                    <h6 className="text-xl font-semibold">Quality Acceptance</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Divide details about your product or agency work into
-                      parts. A paragraph describing a feature will be enough.
+                    Servizio di tipo consulenziale o staff augmentation, seguendo le best practices di riferimento ISTQB.
+ Per processi e situazioni che richiedono il feedback umano per una maggiore garanzia di qualità.
+Definizione ed esecuzione di Test Book
+Verifica della Customer Experience
+Creazione di User Guide
                     </p>
                   </div>
                 </div>
@@ -83,10 +86,9 @@ export default function Landing() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                       <i className="fas fa-retweet"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Free Revisions</h6>
+                    <h6 className="text-xl font-semibold">Test Automation Made Simple</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Keep you user engaged by providing meaningful information.
-                      Remember that by this time, the user is curious.
+                    Combined API test-automation, mocks, performance-testing and even UI automation into a single, unified service
                     </p>
                   </div>
                 </div>
@@ -98,10 +100,10 @@ export default function Landing() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
                       <i className="fas fa-fingerprint"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Verified Company</h6>
+                    <h6 className="text-xl font-semibold">Security</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                      Write a few lines about each one. A paragraph describing a
-                      feature will be enough. Keep you user engaged!
+                    Dedicated reports to track application security against categories of the OWASP and CWE Top 25 standards
+Shortens the Security Vulnerability feedback loop and helps developers fix security holes faster
                     </p>
                   </div>
                 </div>
@@ -117,19 +119,17 @@ export default function Landing() {
                   Working with us is a pleasure
                 </h3>
                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                  Don't let your uses guess by attaching tooltips and popoves to
-                  any element. Just make sure you enable them first via
-                  JavaScript.
+                L’importanza della qualità, per un corretto e sano ciclo di vita del Software.
                 </p>
                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600">
-                  The kit comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go. Just make sure you enable them first via
-                  JavaScript.
+                Aumento continuità operativa Utente
+                <br/>Riduzione criticità per il Customer Care
+                <br/>Migliore gestione urgenze e costi
+                <br/>Maggiore Know-how interno
                 </p>
                 <Link href="/">
                   <a href="#pablo" className="font-bold text-blueGray-700 mt-8">
-                    Check Notus NextJS!
+                    Test Factory!
                   </a>
                 </Link>
               </div>
@@ -205,9 +205,7 @@ export default function Landing() {
                   </div>
                   <h3 className="text-3xl font-semibold">A growing company</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                    The extension comes with three pre-built pages to help you
-                    get started faster. You can change the text and images and
-                    you're good to go.
+                  Siamo una nuova realtà, con oltre 15 anni di esperienza come professionisti nel mondo dello sviluppo software e nella gestione di aree tecnologiche e processi complessi, con focus sulla qualità e metodologie.
                   </p>
                   <ul className="list-none mt-6">
                     <li className="py-2">
@@ -219,7 +217,7 @@ export default function Landing() {
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Carefully crafted components
+                            Magement per progetti complessi
                           </h4>
                         </div>
                       </div>
@@ -233,7 +231,7 @@ export default function Landing() {
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Amazing page examples
+                            CTO per aziende ICT
                           </h4>
                         </div>
                       </div>
@@ -247,7 +245,7 @@ export default function Landing() {
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Dynamic components
+                            Politecnico Universitario di Tirana
                           </h4>
                         </div>
                       </div>
@@ -265,9 +263,11 @@ export default function Landing() {
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">Here are our heroes</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record maximum.
+                La qualità ha un costo, senza molto di più.
+Non aspettare, metti in sicurezza il tuo sviluppo, il tuo servizio.
+
+Progettualità, consulenza, staff augmentation.
+ Diverse soluzioni per specifiche necessità.
                 </p>
               </div>
             </div>
