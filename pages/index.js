@@ -29,10 +29,10 @@ export default function Landing() {
               <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                 <div className="pr-12">
                   <h1 className="text-white font-semibold text-5xl">
-                  Evoluzione costante, in continuità operativa 
+                  Let your business... be Fluid!
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
-                  Processi strutturati e specifici di Quality Assurance per garantire l’evoluzione dei sistemi in totale sicurezza e controllo, abbattendo gli impatti sull’operativa Utente.
+                  The innovative startup for automated logistics
                   </p>
                 </div>
               </div>
@@ -68,13 +68,9 @@ export default function Landing() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                       <i className="fas fa-award"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Quality Acceptance</h6>
+                    <h6 className="text-xl font-semibold">What is?</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                    Servizio di tipo consulenziale o staff augmentation, seguendo le best practices di riferimento ISTQB.
- Per processi e situazioni che richiedono il feedback umano per una maggiore garanzia di qualità.
-Definizione ed esecuzione di Test Book
-Verifica della Customer Experience
-Creazione di User Guide
+                    Fluid is an innovative startup that has developed a cutting-edge technology in the logistics automation sector.
                     </p>
                   </div>
                 </div>
@@ -86,9 +82,9 @@ Creazione di User Guide
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                       <i className="fas fa-retweet"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Test Automation Made Simple</h6>
+                    <h6 className="text-xl font-semibold">Automation Made Simple</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                    Combined API test-automation, mocks, performance-testing and even UI automation into a single, unified service
+                    It is a technology that has been the subject of research for several years by all the large companies in the sector...without ever hitting the target...since now!
                     </p>
                   </div>
                 </div>
@@ -102,15 +98,14 @@ Creazione di User Guide
                     </div>
                     <h6 className="text-xl font-semibold">Security</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
-                    Dedicated reports to track application security against categories of the OWASP and CWE Top 25 standards
-Shortens the Security Vulnerability feedback loop and helps developers fix security holes faster
+                    This technology is now a product in the process of being industrialized and will soon be available for the market.
                     </p>
                   </div>
                 </div>
               </div>
             </div>
 
-            <div className="flex flex-wrap items-center mt-32">
+            <div className="flex flex-wrap items-center mt-32 hidden">
               <div className="w-full md:w-5/12 px-4 mr-auto ml-auto">
                 <div className="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
                   <i className="fas fa-user-friends text-xl"></i>
@@ -205,7 +200,7 @@ Shortens the Security Vulnerability feedback loop and helps developers fix secur
                   </div>
                   <h3 className="text-3xl font-semibold">A growing company</h3>
                   <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  Siamo una nuova realtà, con oltre 15 anni di esperienza come professionisti nel mondo dello sviluppo software e nella gestione di aree tecnologiche e processi complessi, con focus sulla qualità e metodologie.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vestibulum ante ut ante blandit, sit amet dignissim metus sollicitudin. Donec quam purus, maximus sed condimentum eget, congue quis risus. Curabitur vel ligula magna. Mauris finibus eu velit ut venenatis. Sed condimentum mauris vel ante scelerisque, vel vehicula odio blandit. 
                   </p>
                   <ul className="list-none mt-6">
                     <li className="py-2">
@@ -217,7 +212,7 @@ Shortens the Security Vulnerability feedback loop and helps developers fix secur
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Magement per progetti complessi
+                          Lorem ipsum dixit
                           </h4>
                         </div>
                       </div>
@@ -231,7 +226,7 @@ Shortens the Security Vulnerability feedback loop and helps developers fix secur
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            CTO per aziende ICT
+                          Lorem ipsum dixit
                           </h4>
                         </div>
                       </div>
@@ -245,7 +240,7 @@ Shortens the Security Vulnerability feedback loop and helps developers fix secur
                         </div>
                         <div>
                           <h4 className="text-blueGray-500">
-                            Politecnico Universitario di Tirana
+                          Lorem ipsum dixit
                           </h4>
                         </div>
                       </div>
@@ -263,11 +258,7 @@ Shortens the Security Vulnerability feedback loop and helps developers fix secur
               <div className="w-full lg:w-6/12 px-4">
                 <h2 className="text-4xl font-semibold">Here are our heroes</h2>
                 <p className="text-lg leading-relaxed m-4 text-blueGray-500">
-                La qualità ha un costo, senza molto di più.
-Non aspettare, metti in sicurezza il tuo sviluppo, il tuo servizio.
-
-Progettualità, consulenza, staff augmentation.
- Diverse soluzioni per specifiche necessità.
+                Cras molestie consequat risus et sagittis. Donec ac lobortis libero, vitae bibendum felis. Vestibulum faucibus tristique dolor eget malesuada. Donec sed dignissim ipsum. Nam finibus massa fermentum, blandit quam ornare, mollis leo. Maecenas aliquam tortor at odio hendrerit lacinia.
                 </p>
               </div>
             </div>
@@ -444,9 +435,7 @@ Progettualità, consulenza, staff augmentation.
                   Build something
                 </h2>
                 <p className="text-lg leading-relaxed mt-4 mb-4 text-blueGray-400">
-                  Put the potentially record low maximum sea ice extent tihs
-                  year down to low ice. According to the National Oceanic and
-                  Atmospheric Administration, Ted, Scambos.
+                  Are you a company that produces logistics automation systems and want to get more details on Fluid technology or the startup investment plan? Send a message using the form below.
                 </p>
               </div>
             </div>
@@ -497,11 +486,14 @@ Progettualità, consulenza, staff augmentation.
                 <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-blueGray-200">
                   <div className="flex-auto p-5 lg:p-10">
                     <h4 className="text-2xl font-semibold">
-                      Want to work with us?
+                      Contact us
                     </h4>
                     <p className="leading-relaxed mt-1 mb-4 text-blueGray-500">
-                      Complete this form and we will get back to you in 24
-                      hours.
+                      Complete this form including the following minimum information in your message:
+                      <ul>
+                        <li>Company name and website</li>
+                        <li>Type of logistics automation produced</li>
+                      </ul>
                     </p>
                     <div className="relative w-full mb-3 mt-8">
                       <label
