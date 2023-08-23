@@ -89,7 +89,7 @@ export default function Footer() {
                   href="https://www.creative-tim.com?ref=nnjs-footer"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
-                  FLUID SRL
+                  Fluid Srl, Via San Martino 102 - 42033 Carpineti (RE) ITALY
                 </a>
                 .
               </div>
