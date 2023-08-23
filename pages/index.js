@@ -98,7 +98,7 @@ export default function Landing() {
                     <div className="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
                       <i className="fas fa-fingerprint"></i>
                     </div>
-                    <h6 className="text-xl font-semibold">Security</h6>
+                    <h6 className="text-xl font-semibold">Technology</h6>
                     <p className="mt-2 mb-4 text-blueGray-500">
                     This technology is now a product in the process of being industrialized and will soon be available for the market.
                     </p>
