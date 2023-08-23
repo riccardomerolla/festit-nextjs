@@ -55,7 +55,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://www.creative-tim.com/presentation?ref=nnjs-footer"
+                        href="https://fluid.srl"
                       >
                         About Us
                       </a>
@@ -70,7 +70,7 @@ export default function Footer() {
                     <li>
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://creative-tim.com/contact-us?ref=nnjs-footer"
+                        href="https://fluid.srl"
                       >
                         Contact Us
                       </a>
@@ -86,7 +86,7 @@ export default function Footer() {
               <div className="text-sm text-blueGray-500 font-semibold py-1">
                 Copyright © {new Date().getFullYear()} by{" "}
                 <a
-                  href="https://www.creative-tim.com?ref=nnjs-footer"
+                  href="https://fluid.srl"
                   className="text-blueGray-500 hover:text-blueGray-800"
                 >
                   Fluid Srl, Via San Martino 102 - 42033 Carpineti (RE) ITALY
